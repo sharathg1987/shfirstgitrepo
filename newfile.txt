@@ -1,0 +1,2 @@
+This is first line code of new file
+this is second line of code of new file
